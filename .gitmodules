@@ -1,0 +1,12 @@
+[submodule "task1_term_deposit_prediction"]
+	path = task1_term_deposit_prediction
+	url = https://github.com/batoolarifa/term-deposit-prediction
+[submodule "task2_customer_segmentation"]
+	path = task2_customer_segmentation
+	url = https://github.com/batoolarifa/customer-segmentation-ml
+[submodule "task3_household_energy_forecasting"]
+	path = task3_household_energy_forecasting
+	url = https://github.com/batoolarifa/household-energy-forecasting
+[submodule "task4_superstoreBI"]
+	path = task4_superstoreBI
+	url = https://github.com/batoolarifa/superstoreBI
